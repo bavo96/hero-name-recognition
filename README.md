@@ -1,2 +1,5 @@
-# hero-name-recognition
-Hero name recognition
+# HERO NAME RECOGNITION
+
+## Installation
+## Usage
+

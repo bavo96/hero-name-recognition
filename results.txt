@@ -1,0 +1,15 @@
+# SOLUTION 1
+True prediction: 21
+Total sample: 98
+Accuracy: 21/98
+
+# SOLUTION 2
+True prediction: 39
+Total sample: 98
+Accuracy: 39/98
+
+# SOLUTION 3
+True prediction: 72
+Total sample: 98
+Accuracy: 72/98
+
