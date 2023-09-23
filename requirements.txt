@@ -3,3 +3,5 @@ beautifulsoup4
 tqdm
 ultralytics
 open-metric-learning
+matplotlib
+torch==1.13.0

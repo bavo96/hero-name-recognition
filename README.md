@@ -7,6 +7,7 @@ Prerequisites
  + [lightglue](https://github.com/cvg/LightGlue) (for solution 1, 3)
  + [yolov8](https://github.com/ultralytics/ultralytics) (for solution 2, 3)
  + [open-metric-learning](https://github.com/OML-Team/open-metric-learning) (for solution 2)
+ + GPU card
 
 To install necessary packages, run the following command line
 ```
