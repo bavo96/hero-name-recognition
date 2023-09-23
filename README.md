@@ -1,13 +1,14 @@
 # HERO NAME RECOGNITION
 
 ## Installation
-- Prerequisites
+Prerequisites
  + python 3.8.10
  + torch 1.13.0
- + lightglue
- + yolov8
- + oml
-- To install necessary packages, run the following command line
+ + [lightglue](https://github.com/cvg/LightGlue) (for solution 1, 3)
+ + [yolov8](https://github.com/ultralytics/ultralytics) (for solution 2, 3)
+ + [open-metric-learning](https://github.com/OML-Team/open-metric-learning) (for solution 2)
+
+To install necessary packages, run the following command line
 ```
 chmod +x ./install.sh
 ./install.sh
