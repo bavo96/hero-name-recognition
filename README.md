@@ -15,6 +15,9 @@ chmod +x ./install.sh
 ./install.sh
 ```
 ## Usage
+
+Before running the code, change the current directory to `hero-name-recognition/source/`.
+
 - Crawl hero thumbnails: 
 ```python
 cd hero-name-recognition/source/ && python3 crawl_data.py
